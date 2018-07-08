@@ -3,8 +3,8 @@ OverAll study plan for job hunting with Java as core language and JS+React+Redux
 Order of importance
 
 ## 1a. Core javascript interview
-- [] ES6- study all features and interview questions
-        - [] Finish javascript ninja
+    - [] ES6- study all features and interview questions
+        - [x] Finish javascript ninja
         - [] Finish going over ES6 wes bos parts not known
         - [] Generate study questions for ES6.
     - [] React - Study core concepts and best practices
