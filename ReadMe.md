@@ -1,8 +1,4 @@
-OverAll study plan for job hunting with Java as core language and JS+React+Redux as core front end.
-
-Order of importance
-
-# Interview Questions
+# Overall Plan
 
 ## 1a. Core javascript interview
 
@@ -39,6 +35,6 @@ Order of importance
 
 ### 3. Create spring boot react redux project.
 
-    - [ ] Think of topic.
-    - [ ] design the project.
-    - [ ] implement the design.
+- [ ] Think of topic.
+- [ ] design the project.
+- [ ] implement the design.

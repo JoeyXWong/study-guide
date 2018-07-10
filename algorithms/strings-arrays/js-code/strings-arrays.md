@@ -1,55 +1,55 @@
-# Top Algorithm Questions for Java
+# Top Algorithm Questions for JavaScript
 
 ## 1. String Array
 
-- [x] Rotate Array
-- [x] Reverse Words in a String
-- [x] Evaluate Reverse Polish Notation (Stack)
-- [x] Isomorphic Strings
+- [ ] Rotate Array
+- [ ] Reverse Words in a String
+- [ ] Evaluate Reverse Polish Notation (Stack)
+- [ ] Isomorphic Strings
 - [ ] Word Ladder (BFS)
 - [ ] Word Ladder II (BFS)
-- [x] Median of Two Sorted Arrays
-- [x] Kth Largest Element in an Array
+- [ ] Median of Two Sorted Arrays
+- [ ] Kth Largest Element in an Array
 - [ ] Wildcard Matching
 - [ ] Regular Expression Matching
 - [ ] Merge Intervals
 - [ ] Insert Interval
-- [x] Two Sum
-- [x] Two Sum II
+- [ ] Two Sum
+- [ ] Two Sum II
 - [ ] Two Sum III
-- [x] 3Sum
+- [ ] 3Sum
 - [ ] 4Sum
-- [x] 3Sum Closest
+- [ ] 3Sum Closest
 - [ ] String to Integer
-- [x] Merge Sorted Array
+- [ ] Merge Sorted Array
 - [ ] Valid Parentheses
 - [ ] Longest Valid Parentheses
 - [ ] Implement strStr()
 - [ ] Minimum Size Subarray Sum
-- [x] Search Insert Position
-- [x] Longest Consecutive Sequence
-- [x] Valid Palindrome
-- [x] ZigZag Conversion
+- [ ] Search Insert Position
+- [ ] Longest Consecutive Sequence
+- [ ] Valid Palindrome
+- [ ] ZigZag Conversion
 - [ ] Add Binary
-- [x] Length of Last Word
+- [ ] Length of Last Word
 - [ ] Triangle
-- [x] Contains Duplicate: I
-- [x] Contains Duplicate: II
+- [ ] Contains Duplicate: I
+- [ ] Contains Duplicate: II
 - [ ] Contains Duplicate: III
-- [x] Remove Duplicates from Sorted Array: I
+- [ ] Remove Duplicates from Sorted Array: I
 - [ ] Remove Duplicates from Sorted Array: II
-- [x] Remove Element
-- [x] Move Zeroes
-- [x] Longest Substring Without Repeating Characters
+- [ ] Remove Element
+- [ ] Move Zeroes
+- [ ] Longest Substring Without Repeating Characters
 - [ ] Longest Substring that contains 2 unique characters [Google]
 - [ ] Substring with Concatenation of All Words
 - [ ] Minimum Window Substring
-- [ ] Find Minimum in Rotated Sorted Array: I
+- [ ] Find Minimum in Rotated Sorted Array: I, II
 - [ ] Find Minimum in Rotated Sorted Array: II
-- [ ] Search in Rotated Array:I
+- [ ] Search in Rotated Array:I, II
 - [ ] Search in Rotated Array:II
 - [ ] Min Stack
-- [x] Majority Element: I
+- [ ] Majority Element: I
 - [ ] Majority Element: II
 - [ ] Bulls and Cows
 - [ ] Largest Rectangle in Histogram
