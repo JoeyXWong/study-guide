@@ -1,19 +1,11 @@
 {
   "name": "study-guide",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jjay9225/study-guide.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jjay9225/study-guide/issues"
-  },
-  "homepage": "https://github.com/jjay9225/study-guide#readme"
+  "repository": "https://github.com/jjay9225/study-guide.git",
+  "author": "joeyw <jjay9225@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.3.0"
+  }
 }

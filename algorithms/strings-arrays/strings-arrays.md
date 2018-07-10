@@ -1,0 +1,101 @@
+# Top Algorithm Questions
+
+## 1. String Array
+
+- [ ] Rotate Array
+- [ ] Reverse Words in a String
+- [ ] Evaluate Reverse Polish Notation (Stack)
+- [ ] Isomorphic Strings
+- [ ] Word Ladder (BFS)
+- [ ] Word Ladder II (BFS)
+- [ ] Median of Two Sorted Arrays
+- [ ] Kth Largest Element in an Array
+- [ ] Wildcard Matching
+- [ ] Regular Expression Matching
+- [ ] Merge Intervals
+- [ ] Insert Interval
+- [ ] Two Sum
+- [ ] Two Sum II
+- [ ] Two Sum III
+- [ ] 3Sum
+- [ ] 4Sum
+- [ ] 3Sum Closest
+- [ ] String to Integer
+- [ ] Merge Sorted Array
+- [ ] Valid Parentheses
+- [ ] Longest Valid Parentheses
+- [ ] Implement strStr()
+- [ ] Minimum Size Subarray Sum
+- [ ] Search Insert Position
+- [ ] Longest Consecutive Sequence
+- [ ] Valid Palindrome
+- [ ] ZigZag Conversion
+- [ ] Add Binary
+- [ ] Length of Last Word
+- [ ] Triangle
+- [ ] Contains Duplicate: I
+- [ ] Contains Duplicate: II
+- [ ] Contains Duplicate: III
+- [ ] Remove Duplicates from Sorted Array: I
+- [ ] Remove Duplicates from Sorted Array: II
+- [ ] Remove Element
+- [ ] Move Zeroes
+- [ ] Longest Substring Without Repeating Characters
+- [ ] Longest Substring that contains 2 unique characters [Google]
+- [ ] Substring with Concatenation of All Words
+- [ ] Minimum Window Substring
+- [ ] Find Minimum in Rotated Sorted Array: I, II
+- [ ] Find Minimum in Rotated Sorted Array: II
+- [ ] Search in Rotated Array:I, II
+- [ ] Search in Rotated Array:II
+- [ ] Min Stack
+- [ ] Majority Element: I
+- [ ] Majority Element: II
+- [ ] Bulls and Cows
+- [ ] Largest Rectangle in Histogram
+- [ ] Longest Common Prefix [Google]
+- [ ] Largest Number
+- [ ] Simplify Path
+- [ ] Compare Version Numbers
+- [ ] Gas Station
+- [ ] Pascal's Triangle: I
+- [ ] Pascal's Triangle: II
+- [ ] Container With Most Water
+- [ ] Candy [Google]
+- [ ] Trapping Rain Water
+- [ ] Count and Say
+- [ ] Search for a Range
+- [ ] Basic Calculator
+- [ ] Basic Calculator II
+- [ ] Group Anagrams
+- [ ] Shortest Palindrome
+- [ ] Rectangle Area
+- [ ] Summary Ranges
+- [ ] Increasing Triplet Subsequence
+- [ ] Get Target Using Number List And Arithmetic Operations
+- [ ] Reverse Vowels of a String
+- [ ] Flip Game
+- [ ] Flip Game II
+- [ ] Missing Number
+- [ ] Find the duplicate number
+- [ ] First Missing Positive
+- [ ] Valid Anagram
+- [ ] Group Shifted Strings
+- [ ] Top K Frequent Elements
+- [ ] Find Peak Element
+- [ ] Word Pattern
+- [ ] Word Pattern II
+- [ ] H-Index
+- [ ] H-Index II
+- [ ] Palindrome Pairs
+- [ ] One Edit Distance
+- [ ] Scramble String
+- [ ] First Bad Version
+- [ ] Integer to English Words
+- [ ] Text Justification
+- [ ] Remove Invalid Parentheses
+- [ ] Intersection of Two Arrays
+- [ ] Intersection of Two Arrays II
+- [ ] Sliding Window Maximum
+- [ ] Moving Average from Data Stream
+- [ ] Guess Number Higher or Lower
