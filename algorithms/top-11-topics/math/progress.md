@@ -1,0 +1,27 @@
+# 10. Math
+
+- [x] Reverse Integer
+- [ ] Palindrome Number
+- [x] Pow(x,n)
+- [ ] Power of Two
+- [ ] Power of Three
+- [ ] Power of Four
+- [ ] Subsets
+- [ ] Subsets II
+- [ ] Fraction to Recurring Decimal [Google]
+- [x] Excel Sheet Column Number
+- [ ] Excel Sheet Column Title
+- [ ] Factorial Trailing Zeroes
+- [x] Happy Number
+- [ ] Count Primes
+- [x] Plus One
+- [ ] Divide Two Integers
+- [ ] Multiply Strings
+- [ ] Max Points on a Line
+- [x] Product of Array Except Self
+- [ ] Integer Break
+- [x] Add Digits
+- [ ] Ugly Number
+- [ ] Ugly Number II
+- [ ] Super Ugly Number
+- [ ] Find K Pairs with Smallest Sums
