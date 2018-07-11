@@ -1,0 +1,28 @@
+# Ch. 17 Hard
+
+- [ ] Add without plus
+- [ ] Shuffle
+- [ ] Random Set
+- [ ] Missing Number
+- [ ] Letters and Numbers
+- [ ] Count of 2s
+- [ ] Baby Names
+- [ ] Circus Tower
+- [ ] kth Multiple
+- [ ] Majority Element
+- [ ] Word Distance
+- [ ] BiNode
+- [ ] Re-Space
+- [ ] Smalles K
+- [ ] Longest Word
+- [ ] Masseuse
+- [ ] Multi Search
+- [ ] Shortes SuperSequence
+- [ ] Missing Two
+- [ ] Continuous Median
+- [ ] Volume of Historgram
+- [ ] Word Transformer
+- [ ] Max Black Square
+- [ ] Max Submatrix
+- [ ] Word Rectangle
+- [ ] Sparse Similarity
