@@ -58,31 +58,31 @@
 - [ ] Simplify Path
 - [ ] Compare Version Numbers
 - [ ] Gas Station
-- [ ] Pascal's Triangle: I
+- [x] Pascal's Triangle: I
 - [ ] Pascal's Triangle: II
 - [ ] Container With Most Water
 - [ ] Candy [Google]
 - [ ] Trapping Rain Water
-- [ ] Count and Say
+- [x] Count and Say
 - [ ] Search for a Range
 - [ ] Basic Calculator
 - [ ] Basic Calculator II
-- [ ] Group Anagrams
+- [x] Group Anagrams
 - [ ] Shortest Palindrome
 - [ ] Rectangle Area
 - [ ] Summary Ranges
 - [ ] Increasing Triplet Subsequence
 - [ ] Get Target Using Number List And Arithmetic Operations
-- [ ] Reverse Vowels of a String
+- [x] Reverse Vowels of a String
 - [ ] Flip Game
 - [ ] Flip Game II
-- [ ] Missing Number
+- [x] Missing Number
 - [ ] Find the duplicate number
 - [ ] First Missing Positive
-- [ ] Valid Anagram
+- [x] Valid Anagram
 - [ ] Group Shifted Strings
 - [ ] Top K Frequent Elements
-- [ ] Find Peak Element
+- [x] Find Peak Element
 - [ ] Word Pattern
 - [ ] Word Pattern II
 - [ ] H-Index
@@ -94,8 +94,8 @@
 - [ ] Integer to English Words
 - [ ] Text Justification
 - [ ] Remove Invalid Parentheses
-- [ ] Intersection of Two Arrays
-- [ ] Intersection of Two Arrays II
+- [x] Intersection of Two Arrays
+- [x] Intersection of Two Arrays II
 - [ ] Sliding Window Maximum
 - [ ] Moving Average from Data Stream
 - [ ] Guess Number Higher or Lower
