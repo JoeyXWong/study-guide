@@ -8,17 +8,17 @@
 - [ ] Maximum Subarray
 - [ ] Maximum Product Subarray
 - [ ] Palindrome Partitioning
-- [ ] Palindrome Partitioning II 
+- [ ] Palindrome Partitioning II
 - [x] House Robber [Google]
 - [ ] House Robber II
 - [ ] House Robber III
 - [x] Jump Game
 - [ ] Jump Game II
-- [x] Best Time to Buy and Sell Stock 
+- [x] Best Time to Buy and Sell Stock
 - [x] Best Time to Buy and Sell Stock II
-- [ ] Best Time to Buy and Sell Stock III 
-- [ ] Best Time to Buy and Sell Stock IV 
-- [ ] Dungeon Game 
+- [ ] Best Time to Buy and Sell Stock III
+- [ ] Best Time to Buy and Sell Stock IV
+- [ ] Dungeon Game
 - [x] Minimum Path Sum
 - [x] Unique Paths
 - [x] Decode Ways
@@ -27,4 +27,4 @@
 - [x] Longest Increasing Subsequence
 - [x] Coin Change
 - [ ] Coin Change II
-- [ ] Perfect Squares
+- [x] Perfect Squares

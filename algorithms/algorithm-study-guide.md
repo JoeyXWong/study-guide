@@ -1,25 +1,21 @@
 # Study Guide Priority
 
-## 1. Interview Cake
+## 1. Go over top Questions in these sub problems
 
 - [ ] Completed?
 
-## 2. Go over top Questions in these sub problems
+## 2. Go through ctci
 
 - [ ] Completed?
 
-## 3. Go through ctci
+## 3. Go through elements of programming interviews
 
 - [ ] Completed?
 
-## 4. Go through elements of programming interviews
+## 4. Interview Bits
 
 - [ ] Completed?
 
-## 5. Interview Bits
-
-- [ ] Completed?
-
-## 6. Byte by Btye
+## 5. Byte by Btye
 
 - [ ] Completed?

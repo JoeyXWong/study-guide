@@ -13,7 +13,7 @@
 - [ ] Binary Tree Longest Consecutive Sequence
 - [ ] Validate Binary Search Tree
 - [ ] Flatten Binary Tree to Linked List
-- [ ] Path Sum (DFS or BFS)
+- [x] Path Sum (DFS or BFS)
 - [ ] Path Sum II (DFS)
 - [ ] Construct Binary Tree from Inorder and Postorder Traversal
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal

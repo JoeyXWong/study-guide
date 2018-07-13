@@ -78,12 +78,12 @@
 - [ ] Flip Game II
 - [x] Missing Number
 - [ ] Find the duplicate number
-- [ ] First Missing Positive
+- [x] First Missing Positive
 - [x] Valid Anagram
 - [ ] Group Shifted Strings
 - [ ] Top K Frequent Elements
 - [x] Find Peak Element
-- [ ] Word Pattern
+- [x] Word Pattern
 - [ ] Word Pattern II
 - [ ] H-Index
 - [ ] H-Index II
@@ -97,5 +97,5 @@
 - [x] Intersection of Two Arrays
 - [x] Intersection of Two Arrays II
 - [ ] Sliding Window Maximum
-- [ ] Moving Average from Data Stream
+- [x] Moving Average from Data Stream √
 - [ ] Guess Number Higher or Lower
