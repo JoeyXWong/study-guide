@@ -3,9 +3,9 @@
 - [x] Reverse Integer
 - [ ] Palindrome Number
 - [x] Pow(x,n)
-- [ ] Power of Two
-- [ ] Power of Three
-- [ ] Power of Four
+- [x] Power of Two
+- [x] Power of Three
+- [x] Power of Four
 - [ ] Subsets
 - [ ] Subsets II
 - [ ] Fraction to Recurring Decimal [Google]

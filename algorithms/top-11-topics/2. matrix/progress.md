@@ -8,10 +8,10 @@
 - [ ] Search a 2D Matrix
 - [ ] Search a 2D Matrix II
 - [ ] Rotate Image [Palantir]
-- [ ] Valid Sudoku 
+- [ ] Valid Sudoku
 - [x] Minimum Path Sum (DP) [Google]
 - [x] Unique Paths (DP) [Google]
-- [ ] Unique Paths II (DP)
+- [x] Unique Paths II (DP)
 - [ ] Number of Islands (DFS/BFS)
 - [ ] Number of Islands II (Disjoint Set)
 - [ ] Number of connected Components in an Undirected Graph
@@ -24,7 +24,7 @@
 - [ ] Longest Increasing Path in a Matrix (DFS)
 - [ ] Shortest Distance from All Buildings
 - [ ] Game of Life
-- [ ] Paint House 
+- [ ] Paint House
 - [ ] Paint House II
 - [ ] Sudoku Solver (DFS)
 - [ ] Walls and Gates (DFS/BFS)
