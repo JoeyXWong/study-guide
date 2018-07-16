@@ -31,6 +31,7 @@
 ### 2. Spring
 
 - [ ] Learn core spring 5 framework. (todo: form subtasks)
+  - [ ] Java Spring guru course spring 5
 - [ ] Learn about spring boot 2. (todo: form subtasks)
 
 ### 3. Create spring boot react redux project.

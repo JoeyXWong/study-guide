@@ -14,3 +14,4 @@ https://hackernoon.com/es6-features-you-need-to-know-now-b525e2b0755e
 
 https://scotch.io/courses/10-need-to-know-javascript-concepts/es2015es6-feature-roundup
 
+https://github.com/markerikson/react-redux-links <VERY GOOD>

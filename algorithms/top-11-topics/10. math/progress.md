@@ -3,7 +3,7 @@
 - [x] Reverse Integer
 - [ ] Palindrome Number
 - [x] Pow(x,n)
-- [x] Power of Two
+- [x] Power of Two (lots of mistakes)
 - [x] Power of Three
 - [x] Power of Four
 - [ ] Subsets
@@ -13,7 +13,7 @@
 - [ ] Excel Sheet Column Title
 - [ ] Factorial Trailing Zeroes
 - [x] Happy Number
-- [ ] Count Primes
+- [x] Count Primes
 - [x] Plus One
 - [ ] Divide Two Integers
 - [ ] Multiply Strings
@@ -21,7 +21,7 @@
 - [x] Product of Array Except Self
 - [ ] Integer Break
 - [x] Add Digits
-- [ ] Ugly Number
+- [x] Ugly Number
 - [ ] Ugly Number II
 - [ ] Super Ugly Number
 - [ ] Find K Pairs with Smallest Sums

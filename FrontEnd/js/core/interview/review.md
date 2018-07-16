@@ -4,3 +4,6 @@ http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
 
 https://softwareengineering.stackexchange.com/questions/tagged/es6?sort=votes&pageSize=15
 
+https://ponyfoo.com/articles/es6#introduction
+
+https://github.com/markerikson/react-redux-links <VERY GOOD>
