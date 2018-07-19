@@ -1,6 +1,6 @@
 # Ch. 1 Arrays and Strings
 
-- [ ] Is Unique
+- [x] Is Unique
 - [ ] Check Permutation
 - [ ] URLify
 - [ ] Palindrom Permutation

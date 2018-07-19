@@ -1,6 +1,6 @@
 # Ch. 10 Sorting and Searching
 
-- [ ] Sorted Merge
+- [x] Sorted Merge (revist, smart solution)
 - [ ] Group Anagrams
 - [ ] Search in Rotated Array
 - [ ] Sorted Search, no size

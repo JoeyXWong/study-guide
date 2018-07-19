@@ -1,6 +1,6 @@
 # Ch. 5 Bit Manipulation
 
-- [ ] Insertion
+- [x] Insertion
 - [ ] Binary to String
 - [ ] Flip Bit to Win
 - [ ] Next Number

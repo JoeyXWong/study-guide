@@ -1,6 +1,6 @@
 # Ch. 4 Trees and Graphs
 
-- [ ] Route Between Nodes
+- [x] Route Between Nodes
 - [ ] Minimal Tree
 - [ ] List of Depths
 - [ ] Check Balanced

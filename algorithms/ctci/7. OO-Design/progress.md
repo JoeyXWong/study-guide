@@ -1,6 +1,6 @@
 # Ch. 7 Object Oriented Design
 
-- [ ] Deck of Cards
+- [x] Deck of Cards (need to revisit and redo and write program after)
 - [ ] Call center
 - [ ] Jukebox
 - [ ] Parking Lot
