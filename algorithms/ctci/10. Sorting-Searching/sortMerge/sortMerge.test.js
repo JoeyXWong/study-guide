@@ -17,6 +17,7 @@ const sortMerge = (a, b) => {
         temp = a[counterA];
         a[counterA] = b[counterB];
         b[counterB] = temp;
+        counterA++;
       }
   }
   return a;
