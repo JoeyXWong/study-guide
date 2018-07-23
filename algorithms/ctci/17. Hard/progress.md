@@ -13,7 +13,7 @@
 - [ ] Word Distance
 - [ ] BiNode
 - [ ] Re-Space
-- [ ] Smalles K
+- [x] Smallest K
 - [ ] Longest Word
 - [ ] Masseuse
 - [ ] Multi Search

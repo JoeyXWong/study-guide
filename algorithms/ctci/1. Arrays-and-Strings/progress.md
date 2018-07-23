@@ -1,7 +1,7 @@
 # Ch. 1 Arrays and Strings
 
 - [x] Is Unique
-- [ ] Check Permutation
+- [x] Check Permutation
 - [ ] URLify
 - [ ] Palindrom Permutation
 - [ ] One Away

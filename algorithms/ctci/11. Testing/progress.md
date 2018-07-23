@@ -1,6 +1,6 @@
 # Ch. 11 Testing
 
-- [ ] Mistake
+- [x] Mistake
 - [ ] Random Crashes
 - [ ] Chess Test
 - [ ] No Test Tools
