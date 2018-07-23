@@ -1,7 +1,7 @@
 # Ch. 4 Trees and Graphs
 
 - [x] Route Between Nodes
-- [ ] Minimal Tree
+- [x] Minimal Tree (gp)
 - [ ] List of Depths
 - [ ] Check Balanced
 - [ ] Validate BST

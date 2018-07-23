@@ -1,7 +1,7 @@
 # Ch. 3 Stacks and Queues
 
 - [x] Three in One
-- [ ] Stack Min
+- [x] Stack Min (good problem)
 - [ ] Stack of Plates
 - [ ] Queue via Stacks
 - [ ] Sort Stack

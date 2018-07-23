@@ -50,7 +50,7 @@
 - [ ] Search in Rotated Array:II
 - [ ] Min Stack
 - [x] Majority Element: I
-- [ ] Majority Element: II
+- [x] Majority Element: II
 - [ ] Bulls and Cows
 - [ ] Largest Rectangle in Histogram
 - [ ] Longest Common Prefix [Google]
@@ -74,7 +74,7 @@
 - [ ] Increasing Triplet Subsequence
 - [ ] Get Target Using Number List And Arithmetic Operations
 - [x] Reverse Vowels of a String
-- [ ] Flip Game
+- [x] Flip Game
 - [ ] Flip Game II
 - [x] Missing Number
 - [ ] Find the duplicate number
@@ -90,7 +90,7 @@
 - [ ] Palindrome Pairs
 - [ ] One Edit Distance
 - [ ] Scramble String
-- [ ] First Bad Version
+- [ ] First Bad Version (redo)
 - [ ] Integer to English Words
 - [ ] Text Justification
 - [ ] Remove Invalid Parentheses
@@ -98,4 +98,17 @@
 - [x] Intersection of Two Arrays II
 - [ ] Sliding Window Maximum
 - [x] Moving Average from Data Stream √
-- [ ] Guess Number Higher or Lower
+- [x] Guess Number Higher or Lower
+- [ ] Maximum Size Subarray Sum Equals k
+- [ ] Shortest Word Distance
+- [ ] Shortest Word Distance II
+- [ ] Shortest Word Distance III
+- [ ] Is Subsequence
+- [ ] Binary Watch
+- [ ] Remove K Digits
+- [ ] Count of Smaller Numbers After Self
+- [ ] Russian Doll Envelopes
+- [ ] Max Chunks To Make Sorted
+- [ ] Mini Parser
+- [x] Nested List Weight Sum
+- [ ] Line Reflection

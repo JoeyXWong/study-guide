@@ -1,0 +1,2 @@
+1.  [this rules](https://codeburst.io/the-simple-rules-to-this-in-javascript-35d97f31bde3)
+2.  [prototype](https://davidwalsh.name/javascript-objects)
