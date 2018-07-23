@@ -1,6 +1,6 @@
 # Ch. 13 Java
 
-- [ ] Private Constructor
+- [x] Private Constructor (review again)
 - [ ] Return from Finally
 - [ ] Final, etc
 - [ ] Generics vs Templates

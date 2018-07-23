@@ -1,6 +1,6 @@
 # Ch. 2 Linked Lists
 
-- [ ] Remove Dups
+- [x] Remove Dups
 - [ ] Return Kth to Last
 - [ ] Delete Middle Node
 - [ ] Partition
