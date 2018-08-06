@@ -1,7 +1,7 @@
 # Ch. 8 Recursion and Dynamic Programming
 
 - [x] Triple Step
-- [ ] Robot in a grid
+- [x] Robot in a grid
 - [ ] Magic index
 - [ ] Power Set
 - [ ] Recursive Multiply

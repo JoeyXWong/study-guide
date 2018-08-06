@@ -5,6 +5,6 @@
 - [ ] Flip Bit to Win
 - [ ] Next Number
 - [ ] Debugger
-- [ ] Conversion
+- [x] Conversion (gp)
 - [ ] Pairwise Swap
 - [ ] Draw Line

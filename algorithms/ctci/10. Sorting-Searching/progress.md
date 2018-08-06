@@ -2,7 +2,7 @@
 
 - [x] Sorted Merge (revist, smart solution)
 - [ ] Group Anagrams
-- [ ] Search in Rotated Array
+- [x] Search in Rotated Array (implment the problem)
 - [ ] Sorted Search, no size
 - [ ] Sparse Search
 - [ ] Sort big file

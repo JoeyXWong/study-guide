@@ -2,10 +2,10 @@
 
 - [x] Is Unique
 - [x] Check Permutation
-- [ ] URLify
-- [ ] Palindrom Permutation
-- [ ] One Away
-- [ ] String Compression
+- [x] URLify (revist)
+- [x] Palindrom Permutation
+- [x] One Away
+- [x] String Compression
 - [ ] Rotate Matrix
 - [ ] Zero Matrix
 - [ ] String Rotation
